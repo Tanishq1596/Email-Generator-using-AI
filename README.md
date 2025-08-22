@@ -1,12 +1,87 @@
-# React + Vite
+📧 AI Email Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered email generation web application built with Spring Boot (Backend) and React + Vite (Frontend).
+This project demonstrates full-stack development, REST API integration, and AI service consumption, making it a great showcase for recruiters and companies looking for skilled Java + React developers.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Generate professional emails instantly using AI
+✅ Clean and responsive frontend built with React + Tailwind CSS
+✅ Robust backend built with Spring Boot
+✅ RESTful API integration between frontend and backend
+✅ Error handling & response validation
+✅ CORS enabled for cross-origin communication
+✅ Ready for deployment on Render / Vercel / Netlify
 
-## Expanding the ESLint configuration
+🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Frontend:
+
+React (with Vite) ⚡
+
+Tailwind CSS 🎨
+
+Axios for API calls
+
+Backend:
+
+Java + Spring Boot 💻
+
+REST API
+
+Jackson (ObjectMapper, JsonNode) for JSON handling
+
+Other Tools:
+
+Git & GitHub
+
+Postman (for API testing)
+
+IntelliJ IDEA / VS Code
+
+🚀 Project Architecture
+Frontend (React + Vite)  --->  REST API calls  --->  Backend (Spring Boot) ---> AI Service
+
+📂 Project Structure
+/ai-email-generator
+   ├── backend/  (Spring Boot REST API)
+   ├── frontend/ (React + Vite client)
+
+⚡ Getting Started
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/ai-email-generator.git
+cd ai-email-generator
+
+2️⃣ Run Backend (Spring Boot)
+cd backend
+./mvnw spring-boot:run
+
+
+Backend will start at 👉 http://localhost:8080
+
+3️⃣ Run Frontend (React + Vite)
+cd frontend
+npm install
+npm run dev
+
+
+Frontend will start at 👉 http://localhost:5173
+
+🌍 API Endpoints
+Generate Email
+
+POST /api/email/generate
+Request Body:
+
+{
+  "prompt": "Write a formal email for job application"
+}
+
+
+Response:
+
+"Dear Hiring Manager, ... "
+
+
+
+🎥 Demo (Screenshots / GIFs)
