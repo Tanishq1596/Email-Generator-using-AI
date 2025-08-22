@@ -89,3 +89,34 @@ Response:
 ![image alt](https://github.com/Tanishq1596/Email-Generator-using-AI/blob/main/Screenshot%202025-08-22%20204541.png?raw=true)
 ![image alt](https://github.com/Tanishq1596/Email-Generator-using-AI/blob/main/Screenshot%202025-08-22%20204956.png?raw=true)
 ![image alt](https://github.com/Tanishq1596/Email-Generator-using-AI/blob/main/Screenshot%202025-08-22%20204806.png?raw=true)
+
+💡 Why This Project?
+
+This project is a strong demonstration of:
+
+Full-stack application development
+
+Java + Spring Boot backend skills
+
+React + modern frontend skills
+
+RESTful API integration
+
+Ability to deploy & host applications
+
+It’s perfect for recruiters to quickly understand my hands-on expertise with real-world project architecture.
+
+📌 Future Improvements
+
+Add user authentication (JWT)
+
+Save email history to a database (MySQL/PostgreSQL)
+
+Export generated email as PDF
+
+Multi-language support
+
+🤝 Connect With Me
+
+LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/tanishq-jain-b64107280/)]
+Email: tanishqjain7996@gmail.com
