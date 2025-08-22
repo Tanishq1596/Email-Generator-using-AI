@@ -88,3 +88,4 @@ Response:
 ![image alt](https://github.com/Tanishq1596/Email-Generator-using-AI/blob/main/Screenshot%202025-08-22%20205951.png?raw=true)
 ![image alt](https://github.com/Tanishq1596/Email-Generator-using-AI/blob/main/Screenshot%202025-08-22%20204541.png?raw=true)
 ![image alt](https://github.com/Tanishq1596/Email-Generator-using-AI/blob/main/Screenshot%202025-08-22%20204956.png?raw=true)
+![image alt](https://github.com/Tanishq1596/Email-Generator-using-AI/blob/main/Screenshot%202025-08-22%20204806.png?raw=true)
